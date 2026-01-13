@@ -29,7 +29,7 @@
 
 ### Project Objectives:
 
-1. Create Profit & Loss (P&L) Reports by Fiscal Year and Month to analyze revenue, costs, and margins over time.
+1. Create Profit & Loss (P&L) Reports by [Fiscal Year](https://github.com/Chitrani-04/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20year.pdf) and Month to analyze revenue, costs, and margins over time.
 
 2. Develop Market-wise P&L Reports to evaluate regional profitability and cost efficiency.
 
