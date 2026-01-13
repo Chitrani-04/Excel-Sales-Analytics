@@ -2,9 +2,9 @@
 
 ### Project Objectives:
 
-   1. Create a _[Customer Performance Report]( to analyze sales growth across customers from 2019–2021.
+   1. Create a _[Customer Performance Report](https://github.com/Chitrani-04/Excel-Sales-Analytics/blob/main/Customer%20performance%20report.pdf) to analyze sales growth across customers from 2019–2021.
 
-   2. Perform a Market Performance vs Sales Target Analysis to identify gaps between actual sales and targets across regions and countries.
+   2. Perform a _[Market Performance vs Sales Target]( Analysis to identify gaps between actual sales and targets across regions and countries.
 
 ### Purpose of Sales Analytics:
   Enable businesses to monitor, evaluate, and improve sales performance through structured reporting.
